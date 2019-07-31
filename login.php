@@ -17,7 +17,7 @@ include("connection.php");
       if($count == 1) {
          $_SESSION['login_user'] = $myusername;
          
-         header("location: welcome.php");
+         header("location: pages/welcome.php");
       }else {
          $error = "Your Login Name or Password is invalid";
       }

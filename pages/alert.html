@@ -1,0 +1,40 @@
+ <?php
+
+    include 'SQLIDB.php';   
+
+    if(isset($_POST['submit'])){
+
+        $name=$_POST['name'];
+        $email=$_POST['email'];
+        $ybr=$_POST['ybr'];
+        $ach=$_POST['ach'];
+
+    $sql="INSERT INTO members VALUES ('$name', '$email', '$ybr', '$ach')";
+
+    if(!mysqli_query($con,$sql)) 
+    {
+        die('Error: ' . mysqli_error($con));
+    }
+
+    else
+    {
+
+        echo '<script language="javascript">';
+        echo 'alert("Successfully Registered"); location.href="form.php"';
+        echo '</script>';
+    }  
+
+    }
+
+?>
+
+    <form action="" method="post">
+
+        <input type="text" name="name">
+        <input type="text" name="email">
+        <input type="text" name="ybr">
+        <input type="text" name="ach">
+
+        <input type="submit" name="submit" value="Submit">
+
+    </form>

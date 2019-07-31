@@ -199,7 +199,7 @@ body { font-weight: normal;}
 <div class="span12 "><div class="google-map">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3442.9312390959044!2d76.36136906498746!3d30.3529040317712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39102f534a87b5c5%3A0xda1d3ed337e382b3!2sThapar+University%2C+Prem+Nagar%2C+Patiala%2C+Punjab+147004!5e0!3m2!1sen!2sin!4v1535030712007" frameborder="0" width="100%" height="300" marginwidth="0" marginheight="0" scrolling="no">
 </iframe></div></div>
-<div class="span4 "><h2>Contact info</h2>
+<div class="span4 "><h2>Contact Info</h2>
 <h5>Blockchain technology in the Land administration would serve as the basis for a more reliable, cheaper and more efficient land registry which is immutable, transparent and immediately available for public record.</h5>
 
 <p>If you have any query ,you can contact us.<br />
@@ -249,7 +249,7 @@ E-mail: <a href="mailto:blockweb2018@gmail.com">blockweb2018@gmail.com</a><br />
 		<div id="footer-text" class="footer-text">
 	
 			
-		<strong><a href="https://livedemo00.template-help.com/wordpress_51225/" title="landchain" class="site-name"><img src="#" alt="Landchain" title="Landchain"></a></strong>
+		<strong><a href="https://livedemo00.template-help.com/wordpress_51225/" title="landchain" class="site-name"><img src="images/landchain.jpg" alt="Landchain" title="Landchain"></a></strong>
 		&copy; 2018 | <a href="https://livedemo00.template-help.com/wordpress_51225/privacy-policy/" title="Privacy Policy">Privacy Policy</a>
 	
 		</div>	</div>

@@ -6,8 +6,8 @@
 <!--[if IE 9 ]><html class="ie ie9" lang="en-US"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--><html lang="en-US"> <!--<![endif]-->
 <head>
-	<title>News &amp; Events  |  Landchain</title>
-	<meta name="description" content=" &raquo; News &amp; Events | Landchain" />
+	<title>Gallery  |  Landchain</title>
+	<meta name="description" content=" &raquo;Gallery | Landchain" />
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="profile" href="//gmpg.org/xfn/11" />
@@ -185,7 +185,7 @@ body { font-weight: normal;}
 					<div class="span12" data-motopress-type="static" data-motopress-static-file="static/static-title.php">
 						<section class="title-section">
 	<h1 class="title-header">
-					GALLERY	</h1>
+					Gallery	</h1>
 				<!-- BEGIN BREADCRUMBS-->
 			<ul class="breadcrumb breadcrumb__t"><li><a href="index.php">Home</a></li><li class="divider"></li><li class="active">Gallery</li></ul>			<!-- END BREADCRUMBS -->
 	</section><!-- .title-section -->
@@ -343,17 +343,17 @@ body { font-weight: normal;}
 		<div class="portfolio_item_holder">
 		
 						<figure class="thumbnail thumbnail__portfolio">
-				<a href="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2014/08/img_5.jpg" class="image-wrap" title="property1" rel="prettyPhoto">
-					<img src="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2014/08/img_5-600x380.jpg" alt="PROPERTY 1" />
+				<a href="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2014/08/img_5.jpg" class="image-wrap" title="Image Format" rel="prettyPhoto">
+					<img src="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2014/08/img_5-600x380.jpg" alt="Image Format" />
 					<span class="zoom-icon"></span>				</a>
 			</figure><!--/.thumbnail__portfolio-->
 			
 			<div class="caption caption__portfolio">
-									<h3><a href="#">PROPERTY 1</a></h3>
+									<h3><a href="https://livedemo00.template-help.com/wordpress_51225/portfolio-view/image-format/">Property 1</a></h3>
 				
-									<p class="excerpt"> </p>
+									<p class="excerpt"></p>
 				
-									<p><a href="#" class="btn btn-primary"></a></p>
+									<p><a href="#" class="btn btn-primary">Read more</a></p>
 							</div><!--/.caption__portfolio-->
 
 		</div><!--/.portfolio_item_holder-->
@@ -368,11 +368,11 @@ body { font-weight: normal;}
 			</figure><!--/.thumbnail__portfolio-->
 								<a href="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2014/08/img_15.jpg" class="image-wrap" title="Slideshow Format" style="display:none" rel="prettyPhoto[gallery2]"></a>										<a href="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2014/08/img_16.jpg" class="image-wrap" title="Slideshow Format" style="display:none" rel="prettyPhoto[gallery2]"></a>										<a href="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2014/08/img_17.jpg" class="image-wrap" title="Slideshow Format" style="display:none" rel="prettyPhoto[gallery2]"></a>					
 			<div class="caption caption__portfolio">
-									<h3><a href="#">PROPERTY 2</a></h3>
+									<h3><a href="https://livedemo00.template-help.com/wordpress_51225/portfolio-view/slideshow-format/">Property 2</a></h3>
 				
-									<p class="excerpt"></p>
+									<p class="excerpt"> </p>
 				
-									<p><a href="#" class="btn btn-primary"></a></p>
+									<p><a href="#" class="btn btn-primary">Read more</a></p>
 							</div><!--/.caption__portfolio-->
 
 		</div><!--/.portfolio_item_holder-->
@@ -387,11 +387,11 @@ body { font-weight: normal;}
 			</figure><!--/.thumbnail__portfolio-->
 								<a href="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2014/08/img_6.jpg" class="image-wrap" title="Gallery Format" style="display:none" rel="prettyPhoto[gallery3]"></a>										<a href="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2014/08/img_7.jpg" class="image-wrap" title="Gallery Format" style="display:none" rel="prettyPhoto[gallery3]"></a>										<a href="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2014/08/img_8.jpg" class="image-wrap" title="Gallery Format" style="display:none" rel="prettyPhoto[gallery3]"></a>										<a href="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2014/08/img_9.jpg" class="image-wrap" title="Gallery Format" style="display:none" rel="prettyPhoto[gallery3]"></a>										<a href="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2014/08/img_10.jpg" class="image-wrap" title="Gallery Format" style="display:none" rel="prettyPhoto[gallery3]"></a>										<a href="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2014/08/img_11.jpg" class="image-wrap" title="Gallery Format" style="display:none" rel="prettyPhoto[gallery3]"></a>					
 			<div class="caption caption__portfolio">
-									<h3><a href="#">PROPERTY 3</a></h3>
+									<h3><a href="https://livedemo00.template-help.com/wordpress_51225/portfolio-view/gallery-format/">Property 3</a></h3>
 				
 									<p class="excerpt"> </p>
 				
-									<p><a href="#" class="btn btn-primary"></a></p>
+									<p><a href="#" class="btn btn-primary">Read more</a></p>
 							</div><!--/.caption__portfolio-->
 
 		</div><!--/.portfolio_item_holder-->
@@ -406,11 +406,11 @@ body { font-weight: normal;}
 			</figure><!--/.thumbnail__portfolio-->
 			
 			<div class="caption caption__portfolio">
-									<h3><a href="#">PROPERTY 4</a></h3>
+									<h3><a href="https://livedemo00.template-help.com/wordpress_51225/portfolio-view/video-format/">Property 4</a></h3>
 				
 									<p class="excerpt"> </p>
 				
-									<p><a href="#"class="btn btn-primary"></a></p>
+									<p><a href="#" class="btn btn-primary">Read more</a></p>
 							</div><!--/.caption__portfolio-->
 
 		</div><!--/.portfolio_item_holder-->
@@ -425,11 +425,11 @@ body { font-weight: normal;}
 			</figure><!--/.thumbnail__portfolio-->
 			
 			<div class="caption caption__portfolio">
-									<h3><a href="#">PROPERTY 5</a></h3>
+									<h3><a href="https://livedemo00.template-help.com/wordpress_51225/portfolio-view/audio-format/">Property 5</a></h3>
 				
 									<p class="excerpt"> </p>
 				
-									<p><a href="#" class="btn btn-primary"></a></p>
+									<p><a href="#" class="btn btn-primary">Read more</a></p>
 							</div><!--/.caption__portfolio-->
 
 		</div><!--/.portfolio_item_holder-->
@@ -444,11 +444,11 @@ body { font-weight: normal;}
 			</figure><!--/.thumbnail__portfolio-->
 			
 			<div class="caption caption__portfolio">
-									<h3><a href="#">PROPERTY 6</a></h3>
+									<h3><a href="https://livedemo00.template-help.com/wordpress_51225/portfolio-view/sodales-orci-et/">Property 6</a></h3>
 				
-									<p class="excerpt"> </p>
+									<p class="excerpt"></p>
 				
-									<p><a href="#" class="btn btn-primary"></a></p>
+									<p><a href="#" class="btn btn-primary">Read more</a></p>
 							</div><!--/.caption__portfolio-->
 
 		</div><!--/.portfolio_item_holder-->
@@ -463,11 +463,11 @@ body { font-weight: normal;}
 			</figure><!--/.thumbnail__portfolio-->
 			
 			<div class="caption caption__portfolio">
-									<h3><a href="#">PROPERTY 7</a></h3>
+									<h3><a href="https://livedemo00.template-help.com/wordpress_51225/portfolio-view/in-faucibus-risus/">Property 7</a></h3>
 				
-									<p class="excerpt"></p>
+									<p class="excerpt"> </p>
 				
-									<p><a href="#" class="btn btn-primary"></a></p>
+									<p><a href="#" class="btn btn-primary">Read more</a></p>
 							</div><!--/.caption__portfolio-->
 
 		</div><!--/.portfolio_item_holder-->
@@ -482,11 +482,11 @@ body { font-weight: normal;}
 			</figure><!--/.thumbnail__portfolio-->
 			
 			<div class="caption caption__portfolio">
-									<h3><a href="#">PROPERTY 8</a></h3>
+									<h3><a href="https://livedemo00.template-help.com/wordpress_51225/portfolio-view/in-faucibus/">Property 8</a></h3>
 				
 									<p class="excerpt"> </p>
 				
-									<p><a href="#" class="btn btn-primary"></a></p>
+									<p><a href="#" class="btn btn-primary">Read more</a></p>
 							</div><!--/.caption__portfolio-->
 
 		</div><!--/.portfolio_item_holder-->
@@ -501,11 +501,11 @@ body { font-weight: normal;}
 			</figure><!--/.thumbnail__portfolio-->
 			
 			<div class="caption caption__portfolio">
-									<h3><a href="#">PROPERTY 9</a></h3>
+									<h3><a href="https://livedemo00.template-help.com/wordpress_51225/portfolio-view/malesuada-fames-ac/">Property 9</a></h3>
 				
 									<p class="excerpt"></p>
 				
-									<p><a href="#" class="btn btn-primary"></a></p>
+									<p><a href="#" class="btn btn-primary">Read more</a></p>
 							</div><!--/.caption__portfolio-->
 
 		</div><!--/.portfolio_item_holder-->
@@ -529,8 +529,8 @@ body { font-weight: normal;}
 		<div id="footer-text" class="footer-text">
 	
 			
-		<strong><a href="https://livedemo00.template-help.com/wordpress_51225/" title="Landchain" class="site-name"><img src="#" alt="Landchain" title="Landchain"></a></strong>
-		&copy; 2018 | <a href="index.php" title="Privacy Policy">Privacy Policy</a>
+		<strong><a href="https://livedemo00.template-help.com/wordpress_51225/" title="Real Estate Agency" class="site-name"><img src="images/landchain.jpg" alt="Landchain" title="Landchain"></a></strong>
+		&copy; 2018 | <a href="https://livedemo00.template-help.com/wordpress_51225/privacy-policy/" title="Privacy Policy">Privacy Policy</a>
 	
 		</div>	</div>
 </div>

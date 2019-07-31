@@ -156,7 +156,7 @@ body { font-weight: normal;}
 <li id="menu-item-1810" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1797 current_page_item menu-item-has-children"><a href="about.php">About</a>
 <ul class="sub-menu">
 	<li id="menu-item-1811" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="about.php">Testimonials</a></li>
-	<li id="menu-item-1812" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="about.php">Archives</a></li>
+	<li id="menu-item-1812" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="about,php">Archives</a></li>
 	<li id="menu-item-1805" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="about.php">FAQs</a></li>
 </ul>
 </li>
@@ -220,7 +220,7 @@ body { font-weight: normal;}
 </div><!-- .row (end) -->
 <div class="row ">
 <div class="span12 "><h3><em>Residential Lettings and Property Management</em></h3>
-<h6><img class="alignleft size-full wp-image-1991" src="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2011/07/image_1.jpg" alt="image_1" width="368" height="284" />Letting agents are becoming ever more important in the residential property market...</h6>
+<h6><img class="alignleft size-full wp-image-1991" src="https://livedemo00.template-help.com/wordpress_51225/wp-content/uploads/2011/07/image_1.jpg" alt="image_1" width="368" height="284" />Letting agents are becoming ever more important in the residential property market!!</h6>
 <p>With property prices soaring, more people than ever are seeking quality rental properties. So a letting agent with a high level of skill and knowledge is a major asset to any property agency.
 
 New to the profession? You have a variety of sectors within the profession to choose, from the letting of property, through property management to becoming an inventory provider. And what better way to start your career than with a property qualification to demonstrate your level of knowledge and professionalism to the public.
@@ -228,15 +228,15 @@ New to the profession? You have a variety of sectors within the profession to ch
 And for those who are already in the profession but with your sights firmly set on reaching new goals, MOL can help you build on your present level of expertise with a Property Mark qualification and a route to professional body membership.</p>
 <p>MOL are aware how busy letting agents can be so in addition to selling course workbooks for the Property Mark qualifications also offer online support and a unique 40 day programme for those agents who need to prepare quickly for the final qualification exams. 
 
-Whether you are new to the profession wanting to build a long term solid foundation in it or already a letting agent with aspirations of boosting your career forward, MOL can help.. </p>
-<a title="Read more" class="btn btn-primary btn-normal btn-inline " target="_self">..</a><!-- .btn -->
+Whether you are new to the profession wanting to build a long term solid foundation in it or already a letting agent with aspirations of boosting your career forward, MOL can help.</p>
+<a href="#" title="Read more" class="btn btn-primary btn-normal btn-inline " target="_self">Read more</a><!-- .btn -->
 <div class="clear"></div><!-- .clear (end) --></div>
 </div><!-- .row (end) -->
 <h2><em>Why People Choose Us</em></h2>
 <div class="row ">
-<div class="span4 "><div class="service-box extra"><div class="service-box_body"><h2 class="title"><a title="" target="_self">a</a></h2><h5 class="sub-title"><a  title="" target="_self">SECURITY</a></h5><div class="service-box_txt">The model handles very sensitive data so security is very important .The model allows users who are registered with ILMIS only.The information send to landchain are just fingerprints of the information stored in govt. database. </div></div></div><!-- /Service Box --></div>
-<div class="span4 "><div class="service-box extra"><div class="service-box_body"><h2 class="title"><a title="" target="_self">b</a></h2><h5 class="sub-title"><a  title="" target="_self">SAFETY</a></h5><div class="service-box_txt">Information from landchain guarantees the availability of 99.9% because same copy of the information is stored in thousands of computers.Information from govt. database depends on the availability of govt. itself</div></div></div><!-- /Service Box --></div>
-<div class="span4 "><div class="service-box extra"><div class="service-box_body"><h2 class="title"><a title="" target="_self">c</a></h2><h5 class="sub-title"><a  title="" target="_self">AVAILABILITY</a></h5><div class="service-box_txt">We are available 24*7 .Information from landchain guarantees availability of 99.9%.The authenticity of the process, the signatures, the file confirming ownership, mortgage deeds etc. will be secured with a blockchain. </div></div></div><!-- /Service Box --></div>
+<div class="span4 "><div class="service-box extra"><div class="service-box_body"><h2 class="title"><a href="hendreritivamus-eget-nibh-vel/mauris-posuere" title="" target="_self">a</a></h2><h5 class="sub-title"><a href="hendreritivamus-eget-nibh-vel/mauris-posuere" title="" target="_self">SECURITY</a></h5><div class="service-box_txt">The model handles very sensitive data, so security is very important. The model allows users who are registered with ILMIS only. The information sent to the LandChain are just fingerprints of the information stored in government database</div></div></div><!-- /Service Box --></div>
+<div class="span4 "><div class="service-box extra"><div class="service-box_body"><h2 class="title"><a href="etiam-cursus-leo-psumulla-facilisii-primis-nec/donec-tempor-libero" title="" target="_self">b</a></h2><h5 class="sub-title"><a href="etiam-cursus-leo-psumulla-facilisii-primis-nec/donec-tempor-libero" title="" target="_self">SAFETY</a></h5><div class="service-box_txt">Information from blockchain guarantees the availability of 99.9%. This is because the same copy of the information is stored in thousands of computers. The information from government database depends on the availability of government itself.</div></div></div><!-- /Service Box --></div>
+<div class="span4 "><div class="service-box extra"><div class="service-box_body"><h2 class="title"><a href="aenean-nec-eros-luctus/etiam-dictum-egestas" title="" target="_self">c</a></h2><h5 class="sub-title"><a href="aenean-nec-eros-luctus/etiam-dictum-egestas" title="" target="_self">AVAILABILITY</a></h5><div class="service-box_txt"> We are available 24*7 .Information from blockchain guarantees the availability of 99.9%. The authenticity of the process, the signatures, the file confirming ownership, mortgage deeds etc. will be secured with a blockchain.</div></div></div><!-- /Service Box --></div>
 </div><!-- .row (end) -->
 		<div class="clear"></div>
 		<!--.pagination-->
@@ -257,7 +257,7 @@ Whether you are new to the profession wanting to build a long term solid foundat
 		<div id="footer-text" class="footer-text">
 	
 			
-		<strong><a href="https://livedemo00.template-help.com/wordpress_51225/" title="Real Estate Agency" class="site-name"><img src="#" alt="Landchain" title="Landchain"></a></strong>
+		<strong><a href="https://livedemo00.template-help.com/wordpress_51225/" title="Real Estate Agency" class="site-name"><img src="images/landchain.jpg" alt="Landchain" title="Landchain"></a></strong>
 		&copy; 2018 | <a href="https://livedemo00.template-help.com/wordpress_51225/privacy-policy/" title="Privacy Policy">Privacy Policy</a>
 	
 		</div>	</div>

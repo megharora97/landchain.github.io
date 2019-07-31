@@ -86,7 +86,7 @@
 <!--[if (gt IE 9)|!(IE)]><!--><html lang="en-US"> <!--<![endif]-->
 <head>
 	<title>LANDCHAIN</title>
-	<meta name="description" content=" | Real Estate Agency" />
+	<meta name="description" content=" | Landchain" />
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="profile" href="//gmpg.org/xfn/11" />

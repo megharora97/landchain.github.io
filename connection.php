@@ -1,4 +1,5 @@
 <?php
+error_reporting(E_ERROR);
 $titlename = "LANDCHAIN";
 $mysql_hostname = "localhost";
 $mysql_user = "root";
